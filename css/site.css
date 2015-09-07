@@ -1,0 +1,19 @@
+.hdx-viz-image{
+    height:400px;
+	font-size:48px;
+	text-shadow: 3px 3px 3px #000;
+	text-align:center;
+	line-height:60px;
+}
+
+.hdx-viz-image:hover{
+	cursor:pointer;
+}
+
+.hdx-image-viz-text{
+	padding-top:140px;
+}
+
+.hdx-image-viz-text:hover{
+	cursor:pointer;
+}
